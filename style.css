@@ -1,0 +1,89 @@
+
+.main {
+    font-family: "Pacifico", cursive;
+    font-weight: 400-900;
+    font-style: normal;
+
+}
+
+.small-icon {
+    display: flex;
+    justify-content: end;
+    background-color: rgba(117, 115, 115, 0.3);
+    padding: 5px;
+}
+
+.small-img {
+    margin-left: 20px;
+}
+
+.heading {
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+    display: flex;
+    flex-direction: row;
+
+
+}
+
+.main-name {
+    align-items: start;
+    font-size: 40px;
+    margin: 20px;
+    margin-right: 470px;
+
+}
+
+.name {
+    margin: 30px;
+    display: flex;
+    text-align: end;
+    justify-content: end;
+    align-items: end;
+    font-size: 13px;
+}
+
+
+
+.center-main-text {
+    margin-top: 120px;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: aliceblue;
+
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    
+}
+
+.center-btn-1 {
+    margin-right: 10px;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: lightcoral;
+    color: white;
+    font-family: "Pacifico", cursive;
+    font-weight: 400-900;
+    font-style: normal;
+}
+
+.center-btn-2 {
+    margin-left: 50px;
+    border: 1px solid lightcoral;
+    background: none;
+    color:lightcoral;
+    border-radius: 10px;
+    padding: 10px;
+    font-family: "Pacifico", cursive;
+    font-weight: 400-900;
+    font-style: normal;
+
+}
